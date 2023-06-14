@@ -177,7 +177,7 @@ const Carousell = () => {
               {selectedSlide === 0 && (
                 <div id="description-text" className="text-animation">
                   <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center text-white text-center font-bold">
-                    d
+                    
                   </div>
                 </div>
               )}
