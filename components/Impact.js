@@ -4,7 +4,7 @@ import Feat1 from "./feat1";
 import Feat2 from "./feat2";
 import Feat3 from "./feat3";
 import Feat4 from "./feat4";
-import Feat from "/flex-ui-assets/images/headers/feat.avif";
+import Feat from "/flex-ui-assets/images/headers/feat.png";
 import Image from "next/image";
 
 const Impact = (props) => {
